@@ -32,7 +32,7 @@ Welcome to **Cerebrix AI**, an innovative decentralized finance (DeFi) project b
 ### 📞 Contact Us
 
 - Website: [cerebrix.io](https://t.me/CerebrixAI)
-- Telegram: [Join our community](https://t.me/cerebrixai)
+- Telegram: [Get the latest News](https://t.me/CerebrixAI)
 - Twitter: [Follow us on Twitter](https://twitter.com/cerebrixai)
 
 For more details, check out our [documentation](https://cerebrix.io/docs) and [whitepaper](https://cerebrix.io/whitepaper).
