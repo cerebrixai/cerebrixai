@@ -29,13 +29,15 @@ Welcome to **Cerebrix AI**, an innovative decentralized finance (DeFi) project b
 2. Follow the instructions for **minting** and **staking** to start earning.
 3. Take advantage of the **early access sale** and be part of the future of DeFi and AI!
 
-### 📞 Contact Us
+## 📞 Contact Us
 
-- Website: [cerebrix.io](https://t.me/CerebrixAI)
+For further questions or support, please contact our team via:
+- Website: [cerebrix.io](https://cerebrix.io)
+- Email: office@cerebrix.io
 - Telegram: [Get the latest News](https://t.me/CerebrixAI)
 - Twitter: [Follow us on Twitter](https://twitter.com/cerebrixai)
 
-For more details, check out our [documentation](https://cerebrix.io/docs) and [whitepaper](https://cerebrix.io/whitepaper).
+For more details, check out our [FAQ](https://github.com/cerebrixai/faq) and [whitepaper](https://cerebrix.io/whitepaper).
 
 ---
 
