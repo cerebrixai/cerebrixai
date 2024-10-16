@@ -35,7 +35,7 @@ For further questions or support, please contact our team via:
 - Website: [cerebrix.io](https://cerebrix.io)
 - Email: office@cerebrix.io
 - Telegram: [Get the latest News](https://t.me/CerebrixAI)
-- Twitter: [Follow us on Twitter](https://twitter.com/cerebrixai)
+- X: [Follow us on X](https://x.com/cerebrixai)
 
 For more details, check out our [FAQ](https://github.com/cerebrixai/faq) and [whitepaper](https://cerebrix.io/whitepaper).
 
