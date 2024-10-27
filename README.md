@@ -27,19 +27,19 @@ Welcome to **Cerebrix AI**, an innovative decentralized finance (DeFi) project b
 Here are the key smart contract addresses for Cerebrix AI. You can interact with these contracts on the Binance Smart Chain (BSC):
 
 Cerebrix AI (CERB) Token Contract
-Address: 0xa452Bd77a9744d4BF319e4ed62E1B4A87f0A29fD
+Address: This is the main token contract for the CERB token, which powers the Cerebrix AI ecosystem.
  - [0xa452Bd77a9744d4BF319e4ed62E1B4A87f0A29fD](https://bscscan.com/address/0x38c88009f9c7b0e8f06fea3d6707650a527c1b87#code)
-This is the main token contract for the CERB token, which powers the Cerebrix AI ecosystem.
+
 
 CerbSale Contract
-Address: 0x9Ce26FF598cF26EC9348cb515D6e9BBaAf46ED31
+Address: This contract manages the early access sale, allowing users to purchase CERB tokens at a special rate.
  - [0x9Ce26FF598cF26EC9348cb515D6e9BBaAf46ED31](https://bscscan.com/address/0x9Ce26FF598cF26EC9348cb515D6e9BBaAf46ED31#code)
-This contract manages the early access sale, allowing users to purchase CERB tokens at a special rate.
+
 
 CerbStaking Contract
-Address: 0x38c88009f9c7B0e8f06fEA3d6707650a527C1b87
+Address: Stake your CERB tokens here to earn daily rewards securely in our staking pool.
  - [0x38c88009f9c7B0e8f06fEA3d6707650a527C1b87](https://bscscan.com/address/0x38c88009f9c7B0e8f06fEA3d6707650a527C1b87#code)
-Stake your CERB tokens here to earn daily rewards securely in our staking pool.
+
 
 🔗 Quick Links
 You can view each contract’s details and verify them on BSCScan by searching with the contract addresses above.
