@@ -8,7 +8,7 @@ Welcome to **Cerebrix AI**, an innovative decentralized finance (DeFi) project b
 - **Minting**: Minting is available for a limited time, allowing users to purchase new tokens during the early access phase at a fixed price.
 - **Staking**: Earn daily rewards of **0.27%** by staking your tokens in our secure staking pool.
 - **Affiliate Program**: Boost your passive income by earning **0.03%** daily from the staking rewards of your downline.
-- **Early Access Sale**: Get early access to **Cerebrix AI** by participating in the **early access sale** with a special price of **0.0001 BNB per token**.
+- **Early Access Sale**: Get early access to **Cerebrix AI** by participating in the **early access sale** with a special price of **0.006 USD per token**.
 
 ### 🔐 Security
 
@@ -21,7 +21,7 @@ Welcome to **Cerebrix AI**, an innovative decentralized finance (DeFi) project b
 - **Staking Supply**: 449,970,000 CERB
 - **Early Access Supply**: 50,000,000 CERB
 - **Daily Staking Rewards**: 0.27%
-- **Staking Fee**: 4.5%
+- **Staking Fee**: 5.0%
 
 ### 📜 Contract Addresses
 Here are the key smart contract addresses for Cerebrix AI. You can interact with these contracts on the Binance Smart Chain (BSC):
